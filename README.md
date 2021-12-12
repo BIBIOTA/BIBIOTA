@@ -77,7 +77,7 @@ Backend: <br/>
 Node.js、NestJs
 
 Database: <br/>
-MYSQL <br />
+MongoDB <br />
 
 API: <br/>
 RESTful API, GraphQL <br/>
