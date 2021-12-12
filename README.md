@@ -1,24 +1,23 @@
 ### Hi I'm BiBiOTA 👋
 
-- Skills
+###  Skills:
 
 - Frontend:
-- HTML (Pug)
-- CSS (SCSS、SASS、Vuetify、碰過一點點tailwind)
-- Javascript(Vue.js、Jquery)
-- 
+HTML (Pug) <br />
+CSS (SCSS、SASS、Vuetify、碰過一點點tailwind)  <br />
+Javascript(Vue.js、Jquery)  <br />
 - Backend:
-- PHP (Laravel)
-- Node.js
-- TypeScript (NestJs)
-- RDBMS (MySQL)
-- NOSQL (不太熟，正在學MongoDB)
+PHP (Laravel)  <br />
+Node.js  <br />
+TypeScript (NestJs)  <br />
+RDBMS (MySQL)  <br />
+NOSQL (不太熟，正在學MongoDB)  <br />
 
 - dev tools:
-- Docker
+Docker  <br />
 
-- Side Projects:
-- HappyShifts班表管理
+###  Side Projects:
+- HappyShifts班表管理 
 - Irunning手機網頁應用程式
 - money_exchange(node.js、NestJs)
 <!--
