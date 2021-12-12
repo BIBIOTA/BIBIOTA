@@ -32,6 +32,9 @@ Vue.js  <br/>
 Backend: <br/>
 Laravel
 
+Database: <br/>
+MYSQL <br />
+
 API: <br/>
 RESTful API <br/>
 Google API (Login and Google Calendar)
@@ -48,7 +51,10 @@ Frontend:  <br/>
 Vue.js  <br/>
 
 Backend: <br/>
-Laravel, Node.js(爬蟲、GPS鄉鎮區取得服務)
+Laravel, Node.js(爬蟲、GPS鄉鎮區取得服務)  <br />
+
+Database: <br/>
+MYSQL <br />
 
 API: <br/>
 RESTful API <br/>
@@ -69,6 +75,9 @@ Vue.js  <br/>
 
 Backend: <br/>
 Node.js、NestJs
+
+Database: <br/>
+MYSQL <br />
 
 API: <br/>
 RESTful API, GraphQL <br/>
