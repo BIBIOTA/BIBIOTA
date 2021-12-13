@@ -4,15 +4,20 @@
 
 ### Frontend: <br />
 HTML (Pug) <br />
-CSS (SCSS、SASS、Vuetify、碰過一點點tailwind)  <br />
+CSS (SCSS、SASS、Vuetify)  <br />
 Javascript(Vue.js、Jquery)  <br />
+學習中:   <br />
+tailwind  <br />
 
 ### Backend: <br />
 PHP (Laravel)  <br />
 Node.js  <br />
 TypeScript (NestJs)  <br />
 RDBMS (MySQL)  <br />
-NOSQL (不太熟，正在學MongoDB)  <br />
+學習中:   <br />
+NOSQL(MongoDB)  <br />
+Redis  <br />
+Queue  <br />
 
 ### dev tools: <br />
 Docker  <br />
