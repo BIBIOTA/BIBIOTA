@@ -17,6 +17,25 @@ NOSQL (不太熟，正在學MongoDB)  <br />
 ### dev tools: <br />
 Docker  <br />
 
+### 前端養成班團專:
+
+### MoonLover月老交友平台 (2021/11~2021/12) <br/>
+
+<a href="https://tibamef2e.com/demo-projects/ted101/G4/index.html">https://tibamef2e.com/demo-projects/ted101/G4/index.html</a>  <br/>
+
+description: 月老主題交友網站，主要是負責了大部分的資料庫設計及後端，前台會員中心切版及功能(配對即時聊天、客製化吉祥物、修改會員資料...等等)，還有後台的切版和功能。<br />
+
+技術棧: <br/>
+
+Frontend:  <br/>
+Vue.js  <br/>
+
+Backend: <br/>
+原生PHP
+
+Database: <br/>
+MYSQL <br />
+
 ###  Side Projects:
 ### HappyShifts班表管理 (2021/1~2021/2) <br/>
 
