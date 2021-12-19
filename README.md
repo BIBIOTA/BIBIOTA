@@ -96,6 +96,8 @@ GCP(Google Compute Engine & Google Kubernetes Engine)  <br/>
 
 每小時取得台灣銀行的外幣資料，可以換算新台幣轉外幣的金額 <br />
 
+技術棧: <br/>
+
 Frontend:  <br/>
 Vue.js(Vue 3)、Tailwind  <br/>
 
