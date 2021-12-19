@@ -87,24 +87,42 @@ Strava API V3 (運動社群第三方登入及資料取得)
 Environment:  <br/>
 GCP(Google Compute Engine & Google Kubernetes Engine)  <br/>
 
-### money_exchange (2021/12/~) <br/>
+### 外幣匯率查詢 (2021/12/~) <br/>
 
-<a href="https://github.com/BIBIOTA/currency_exchanger">https://github.com/BIBIOTA/currency_exchanger</a>  <br/>
+2.0 <br />
+
+<a href="https://currency-exchanger-nestjs.bibiota.com/">https://currency-exchanger-nestjs.bibiota.com/</a>  <br/>
 <a href="https://github.com/BIBIOTA/money_exchange_nestjs">https://github.com/BIBIOTA/money_exchange_nestjs</a>  <br/>
 
-description: 做了一個Node.js匯率計算的API(匯率是假的，沒有建資料庫)。目前正在用NestJs+GraphQL+MongoDB開發一個真實資料的API，和簡單的前台介面 <br />
+每小時取得台灣銀行的外幣資料，可以換算新台幣轉外幣的金額 <br />
 
 Frontend:  <br/>
-Vue.js  <br/>
+Vue.js(Vue 3)  <br/>
 
 Backend: <br/>
-Node.js、NestJs
+NestJs(TypeScript) <br/>
 
 Database: <br/>
 MongoDB <br />
 
 API: <br/>
-RESTful API, GraphQL <br/>
+GraphQL <br/>
+
+Environment:  <br/>
+GCP(Google Compute Engine)  <br/>
+
+1.0 <br />
+
+<a href="https://currency-exchanger.bibiota.com/">https://currency-exchanger.bibiota.com/</a>  <br/>
+<a href="https://github.com/BIBIOTA/currency_exchanger">https://github.com/BIBIOTA/currency_exchanger</a>  <br/>
+
+description: 做了一個Node.js匯率計算的API(匯率是假的，沒有建資料庫)。
+
+Backend: <br/>
+Node.js
+
+API: <br/>
+RESTful API <br/>
 
 Environment:  <br/>
 GCP(Google Kubernetes Engine)  <br/>
