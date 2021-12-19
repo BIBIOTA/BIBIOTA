@@ -72,7 +72,7 @@ description: 跑步資訊相關的手機版網頁(因為比較想著重在功能
 技術棧: <br/>
 
 Frontend:  <br/>
-Vue.js  <br/>
+Vue.js、Vuetify  <br/>
 
 Backend: <br/>
 Laravel, Node.js(爬蟲、GPS鄉鎮區取得服務)  <br />
@@ -97,7 +97,7 @@ GCP(Google Compute Engine & Google Kubernetes Engine)  <br/>
 每小時取得台灣銀行的外幣資料，可以換算新台幣轉外幣的金額 <br />
 
 Frontend:  <br/>
-Vue.js(Vue 3)  <br/>
+Vue.js(Vue 3)、Tailwind  <br/>
 
 Backend: <br/>
 NestJs(TypeScript) <br/>
