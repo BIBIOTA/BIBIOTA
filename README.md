@@ -1,5 +1,7 @@
 ### Hi I'm BiBiOTA 👋
 
+![BiBiOTA's GitHub stats](https://github-readme-stats.vercel.app/api?username=BIBIOTA&show_icons=true&theme=dark)
+
 ##  Skills:
 
 ### Frontend: <br />
