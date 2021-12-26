@@ -87,7 +87,8 @@ RESTful API <br/>
 Strava API V3 (運動社群第三方登入及資料取得)
 
 Environment:  <br/>
-GCP(Google Compute Engine & Google Kubernetes Engine)  <br/>
+GCP(Google Kubernetes Engine)  <br/>
+AWS(EC2) <br/>
 
 ### 外幣匯率查詢 (2021/12/~) <br/>
 
