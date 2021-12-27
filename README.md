@@ -115,7 +115,7 @@ API: <br/>
 GraphQL <br/>
 
 Environment:  <br/>
-GCP(Google Compute Engine)  <br/>
+AWS(EC2)  <br/>
 
 1.0 <br />
 
@@ -129,9 +129,6 @@ Node.js
 
 API: <br/>
 RESTful API <br/>
-
-Environment:  <br/>
-GCP(Google Kubernetes Engine)  <br/>
 
 <!--
 **BIBIOTA/BIBIOTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
