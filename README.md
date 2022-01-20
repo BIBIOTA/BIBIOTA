@@ -28,12 +28,16 @@ Docker(Dockerfile, docker-compose, k8s)  <br />
 ### Unit Test: <br />
 Laravel test, jest, mocha ...  <br />
 
+### CI-CD: <br />
+Gitlab-CI, GCP Cloud Build  <br />
+
 ###  Side Projects:
 ### Irunning手機網頁應用程式 (2021/8~) <br/>
 
 <a href="https://irunning.bibiota.com/">https://irunning.bibiota.com/</a>  <br/>
 
-description: 跑步資訊相關的手機版網頁(因為比較想著重在功能和後端所以沒做電腦版～)，能夠得到每個小時所在地的天氣和空氣品質資訊、最近的馬拉松賽事，串連運動社群Strava拿到跑步的紀錄。 有前台和一個開發中後台(目前有JWT登入和查看會員功能) <br />
+description: <br / >
+跑步資訊相關的手機版網頁(因為比較想著重在功能和後端所以沒做電腦版～)，能夠得到每個小時所在地的天氣和空氣品質資訊、最近的馬拉松賽事，串連運動社群Strava拿到跑步的紀錄。 有前台和一個開發中後台(目前有JWT登入和查看會員功能) <br />
 
 技術棧: <br/>
 
@@ -51,12 +55,7 @@ RESTful API <br/>
 Strava API V3 (運動社群第三方登入及資料取得)
 
 Environment:  <br/>
-GCP(Google Kubernetes Engine)  <br/>
-AWS(EC2) <br/>
-
-CI-CD: <br/>
-Gitlab-ci
-GCP Cloud Build
+GCP(Google Compute Engine & Google Kubernetes Engine)  <br/>
 
 ### 外幣匯率查詢 (2021/12/~) <br/>
 
