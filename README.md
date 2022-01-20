@@ -59,8 +59,6 @@ GCP(Google Compute Engine & Google Kubernetes Engine)  <br/>
 
 ### 外幣匯率查詢 (2021/12/~) <br/>
 
-2.0 <br />
-
 <a href="https://currency-exchanger-nestjs.bibiota.com/">https://currency-exchanger-nestjs.bibiota.com/</a>  <br/>
 
 每小時取得台灣銀行的外幣資料，可以換算新台幣轉外幣的金額 <br />
@@ -81,19 +79,6 @@ GraphQL <br/>
 
 Environment:  <br/>
 AWS(EC2)  <br/>
-
-1.0 <br />
-
-<a href="https://currency-exchanger.bibiota.com/">https://currency-exchanger.bibiota.com/</a>  <br/>
-<a href="https://github.com/BIBIOTA/currency_exchanger">https://github.com/BIBIOTA/currency_exchanger</a>  <br/>
-
-description: 做了一個Node.js匯率計算的API(匯率是假的，沒有建資料庫)。
-
-Backend: <br/>
-Node.js
-
-API: <br/>
-RESTful API <br/>
 
 ### HappyShifts班表管理 (2021/1~2021/2) <br/>
 
