@@ -16,55 +16,19 @@ PHP (Laravel)  <br />
 Node.js  <br />
 TypeScript (NestJs)  <br />
 RDBMS (MySQL)  <br />
+Redis  <br />
 學習中:   <br />
 NOSQL(MongoDB)  <br />
-Redis  <br />
 Queue  <br />
 
-### dev tools: <br />
-Docker  <br />
+### Environment: <br />
+Linux(CentOs, Ubuntu)  <br />
+Docker(Dockerfile, docker-compose, k8s)  <br />
 
-### 前端養成班團專:
-
-### MoonLover月老交友平台 (2020/11~2020/12) <br/>
-
-<a href="https://tibamef2e.com/demo-projects/ted101/G4/index.html">https://tibamef2e.com/demo-projects/ted101/G4/index.html</a>  <br/>
-
-description: 月老主題交友網站，主要是負責了大部分的資料庫設計及後端，前台會員中心切版及功能(配對即時聊天、客製化吉祥物、修改會員資料...等等)，還有後台的切版和功能。<br />
-
-技術棧: <br/>
-
-Frontend:  <br/>
-Vue.js  <br/>
-
-Backend: <br/>
-原生PHP
-
-Database: <br/>
-MYSQL <br />
+### Unit Test: <br />
+Laravel test, jest, mocha ...  <br />
 
 ###  Side Projects:
-### HappyShifts班表管理 (2021/1~2021/2) <br/>
-
-<a href="https://happyshifts.herokuapp.com">https://happyshifts.herokuapp.com</a>  <br/>
-
-description: 可以紀錄上班班表時間的工具，用來練習Vue&Laravel前後端分離及Google第三方串接 <br />
-
-技術棧: <br/>
-
-Frontend:  <br/>
-Vue.js  <br/>
-
-Backend: <br/>
-Laravel
-
-Database: <br/>
-MYSQL <br />
-
-API: <br/>
-RESTful API <br/>
-Google API (Login and Google Calendar)
-
 ### Irunning手機網頁應用程式 (2021/8~) <br/>
 
 <a href="https://irunning.bibiota.com/">https://irunning.bibiota.com/</a>  <br/>
@@ -89,6 +53,10 @@ Strava API V3 (運動社群第三方登入及資料取得)
 Environment:  <br/>
 GCP(Google Kubernetes Engine)  <br/>
 AWS(EC2) <br/>
+
+CI-CD: <br/>
+Gitlab-ci
+GCP Cloud Build
 
 ### 外幣匯率查詢 (2021/12/~) <br/>
 
@@ -129,6 +97,46 @@ Node.js
 
 API: <br/>
 RESTful API <br/>
+
+### HappyShifts班表管理 (2021/1~2021/2) <br/>
+
+<a href="https://happyshifts.herokuapp.com">https://happyshifts.herokuapp.com</a>  <br/>
+
+description: 可以紀錄上班班表時間的工具，用來練習Vue&Laravel前後端分離及Google第三方串接 <br />
+
+技術棧: <br/>
+
+Frontend:  <br/>
+Vue.js  <br/>
+
+Backend: <br/>
+Laravel
+
+Database: <br/>
+MYSQL <br />
+
+API: <br/>
+RESTful API <br/>
+Google API (Login and Google Calendar)
+
+### 前端養成班團專:
+
+### MoonLover月老交友平台 (2020/11~2020/12) <br/>
+
+<a href="https://tibamef2e.com/demo-projects/ted101/G4/index.html">https://tibamef2e.com/demo-projects/ted101/G4/index.html</a>  <br/>
+
+description: 月老主題交友網站，主要是負責了大部分的資料庫設計及後端，前台會員中心切版及功能(配對即時聊天、客製化吉祥物、修改會員資料...等等)，還有後台的切版和功能。<br />
+
+技術棧: <br/>
+
+Frontend:  <br/>
+Vue.js  <br/>
+
+Backend: <br/>
+原生PHP
+
+Database: <br/>
+MYSQL <br />
 
 <!--
 **BIBIOTA/BIBIOTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
