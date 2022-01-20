@@ -62,8 +62,6 @@ GCP(Google Compute Engine & Google Kubernetes Engine)  <br/>
 2.0 <br />
 
 <a href="https://currency-exchanger-nestjs.bibiota.com/">https://currency-exchanger-nestjs.bibiota.com/</a>  <br/>
-<a href="https://github.com/BIBIOTA/money_exchange_nestjs">https://github.com/BIBIOTA/money_exchange_nestjs</a>  <br/>
-<a href="https://github.com/BIBIOTA/money_exchange_client">https://github.com/BIBIOTA/money_exchange_client</a>  <br/>
 
 每小時取得台灣銀行的外幣資料，可以換算新台幣轉外幣的金額 <br />
 
