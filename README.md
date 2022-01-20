@@ -36,8 +36,7 @@ Gitlab-CI, GCP Cloud Build  <br />
 
 <a href="https://irunning.bibiota.com/">https://irunning.bibiota.com/</a>  <br/>
 
-description: <br / >
-跑步資訊相關的手機版網頁(因為比較想著重在功能和後端所以沒做電腦版～)，能夠得到每個小時所在地的天氣和空氣品質資訊、最近的馬拉松賽事，串連運動社群Strava拿到跑步的紀錄。 有前台和一個開發中後台(目前有JWT登入和查看會員功能) <br />
+description: 跑步資訊相關的手機版網頁(因為比較想著重在功能和後端所以沒做電腦版～)，能夠得到每個小時所在地的天氣和空氣品質資訊、最近的馬拉松賽事，串連運動社群Strava拿到跑步的紀錄。 有前台和一個開發中後台(目前有JWT登入和查看會員功能) <br />
 
 技術棧: <br/>
 
