@@ -8,8 +8,6 @@
 HTML (Pug) <br />
 CSS (SCSS、SASS、Vuetify)  <br />
 Javascript(Vue.js、Jquery)  <br />
-學習中:   <br />
-tailwind  <br />
 
 ### Backend: <br />
 PHP (Laravel)  <br />
@@ -29,14 +27,29 @@ Docker(Dockerfile, docker-compose, k8s)  <br />
 Laravel test, jest, mocha ...  <br />
 
 ### CI-CD: <br />
-Gitlab-CI, GCP Cloud Build  <br />
+Gitlab-CI, GCP Cloud Build, Drone  <br />
 
 ###  Side Projects:
 ### Irunning手機網頁應用程式 (2021/8~) <br/>
 
 <a href="https://irunning.bibiota.com/">https://irunning.bibiota.com/</a>  <br/>
 
-description: 跑步資訊相關的手機版網頁(因為比較想著重在功能和後端所以沒做電腦版～)，能夠得到每個小時所在地的天氣和空氣品質資訊、最近的馬拉松賽事，串連運動社群Strava拿到跑步的紀錄。 有前台和一個開發中後台(目前有JWT登入和查看會員功能) <br />
+description:
+<br />
+1.與運動社群應用程式Strava串接及第三方登入，取得個人的跑步紀錄
+<br />
+2.與中央氣象局、政府開放平台API串接，建立資料庫並取得台灣各地及目前所在地(GPS Location)的即時天氣資訊及空氣品質
+<br />
+3.透過Node.js爬蟲，取得全國路跑賽事資訊並建立資料庫、搜尋賽事
+<br />
+4.將即將參加的路跑賽事加入Google Calender
+<br />
+全國馬拉松賽事資料來源:
+<br />
+跑者廣場-全國賽會
+<br />
+<a href="http://www.taipeimarathon.org.tw/contest.aspx
+
 
 技術棧: <br/>
 
@@ -44,7 +57,7 @@ Frontend:  <br/>
 Vue.js、Vuetify  <br/>
 
 Backend: <br/>
-Laravel, Node.js(爬蟲、GPS鄉鎮區取得服務)  <br />
+Laravel 9(Swoole + Octane), Node.js(爬蟲、GPS鄉鎮區取得服務)  <br />
 
 Database: <br/>
 MYSQL <br />
@@ -78,46 +91,6 @@ GraphQL <br/>
 
 Environment:  <br/>
 AWS(EC2)  <br/>
-
-### HappyShifts班表管理 (2021/1~2021/2) <br/>
-
-<a href="https://happyshifts.herokuapp.com">https://happyshifts.herokuapp.com</a>  <br/>
-
-description: 可以紀錄上班班表時間的工具，用來練習Vue&Laravel前後端分離及Google第三方串接 <br />
-
-技術棧: <br/>
-
-Frontend:  <br/>
-Vue.js  <br/>
-
-Backend: <br/>
-Laravel
-
-Database: <br/>
-MYSQL <br />
-
-API: <br/>
-RESTful API <br/>
-Google API (Login and Google Calendar)
-
-### 前端養成班團專:
-
-### MoonLover月老交友平台 (2020/11~2020/12) <br/>
-
-<a href="https://tibamef2e.com/demo-projects/ted101/G4/index.html">https://tibamef2e.com/demo-projects/ted101/G4/index.html</a>  <br/>
-
-description: 月老主題交友網站，主要是負責了大部分的資料庫設計及後端，前台會員中心切版及功能(配對即時聊天、客製化吉祥物、修改會員資料...等等)，還有後台的切版和功能。<br />
-
-技術棧: <br/>
-
-Frontend:  <br/>
-Vue.js  <br/>
-
-Backend: <br/>
-原生PHP
-
-Database: <br/>
-MYSQL <br />
 
 <!--
 **BIBIOTA/BIBIOTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
