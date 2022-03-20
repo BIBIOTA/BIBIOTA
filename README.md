@@ -4,11 +4,6 @@
 
 ##  Skills:
 
-### Frontend: <br />
-HTML (Pug) <br />
-CSS (SCSS、SASS、Vuetify)  <br />
-Javascript(Vue.js、Jquery)  <br />
-
 ### Backend: <br />
 PHP (Laravel)  <br />
 Node.js  <br />
@@ -23,11 +18,21 @@ Queue  <br />
 Linux(CentOs, Ubuntu)  <br />
 Docker(Dockerfile, docker-compose, k8s)  <br />
 
+### Cloud Service: <br />
+GCP  <br />
+AWS  <br />
+Heroku  <br />
+
 ### Unit Test: <br />
 Laravel test, jest, mocha ...  <br />
 
 ### CI-CD: <br />
 Gitlab-CI, GCP Cloud Build, Drone  <br />
+
+### Frontend: <br />
+HTML (Pug) <br />
+CSS (SCSS、SASS、Vuetify)  <br />
+Javascript(Vue.js、Jquery)  <br />
 
 ###  Side Projects:
 ### Irunning手機網頁應用程式 (2021/8~) <br/>
