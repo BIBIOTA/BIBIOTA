@@ -35,7 +35,7 @@ CSS (SCSS、SASS、Vuetify)  <br />
 Javascript(Vue.js、Jquery)  <br />
 
 ###  Side Projects:
-### Irunning手機網頁應用程式 (2021/8~) <br/>
+### Irunning(2021/8~) <br/>
 
 <a href="https://irunning.bibiota.com/">https://irunning.bibiota.com/</a>  <br/>
 
