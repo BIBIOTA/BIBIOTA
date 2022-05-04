@@ -10,9 +10,9 @@ Node.js  <br />
 TypeScript (NestJs)  <br />
 RDBMS (MySQL)  <br />
 Redis  <br />
+Queue  <br />
 學習中:   <br />
 NOSQL(MongoDB)  <br />
-Queue  <br />
 
 ### Environment: <br />
 Linux(CentOs, Ubuntu)  <br />
