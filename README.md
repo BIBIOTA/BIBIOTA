@@ -2,112 +2,88 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BIBIOTA&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-##  Skills:
+##  🖥 Skills:
 
-### Backend: <br />
-PHP (Laravel)  <br />
-Node.js  <br />
-TypeScript (NestJs)  <br />
-RDBMS (MySQL)  <br />
-Redis  <br />
-Queue  <br />
-學習中:   <br />
-NOSQL(MongoDB)  <br />
+### Backend:
+    PHP (Laravel)
+    Node.js
+    TypeScript (NestJs)
+    RDBMS (MySQL)
+    Redis
+    Queue
 
-### Environment: <br />
-Linux(CentOs, Ubuntu)  <br />
-Docker(Dockerfile, docker-compose, k8s)  <br />
+### Environment:
+    Linux
+    Docker(docker-compose, k8s)
 
-### Cloud Service: <br />
-GCP  <br />
-AWS  <br />
-Heroku  <br />
+### Cloud Service:
+    GCP
+    AWS
+    Heroku
 
-### Unit Test: <br />
-Laravel test, jest, mocha ...  <br />
+### Unit Test:
+    Laravel test, jest, mocha ...
 
-### CI-CD: <br />
-Gitlab-CI, GCP Cloud Build, Drone  <br />
+### CI-CD:
+    Gitlab-CI
+    GCP Cloud Build
+    Drone
 
-### Frontend: <br />
-HTML (Pug) <br />
-CSS (SCSS、SASS、Vuetify)  <br />
-Javascript(Vue.js、Jquery)  <br />
+### Frontend:
+    HTML (Pug)
+    CSS (SCSS、SASS)
+    Javascript(Vue.js、Jquery)
 
-###  Side Projects:
-### Irunning(2021/8~) <br/>
+##  👨‍💻 Side Projects:
 
-<a href="https://irunning.bibiota.com/">https://irunning.bibiota.com/</a>  <br/>
+### 🏃🏻 [Irunning: Running information web site & Telegram bot (2021/8~)](https://irunning.bibiota.com/)
 
-description:
-<br />
-1.與運動社群應用程式Strava串接及第三方登入，取得個人的跑步紀錄
-<br />
-2.與中央氣象局、政府開放平台API串接，建立資料庫並取得台灣各地及目前所在地(GPS Location)的即時天氣資訊及空氣品質
-<br />
-3.透過Node.js爬蟲，取得全國路跑賽事資訊並建立資料庫、搜尋賽事
-<br />
-4.將即將參加的路跑賽事加入Google Calender
-<br />
-全國馬拉松賽事資料來源:
-<br />
-跑者廣場-全國賽會
-<br />
-<a href="http://www.taipeimarathon.org.tw/contest.aspx
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBIOTA&repo=irunning-server-api)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBIOTA&repo=irunning-node)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBIOTA&repo=irunning-client-website)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBIOTA&repo=irunning-client-admin)](https://github.com/anuraghazra/github-readme-stats)
 
+#### About this side-project:
 
-技術棧: <br/>
+- 路跑天氣: 即時取得台灣各地及目前所在地(GPS Location)的即時天氣資訊及空氣品質
+- 跑步紀錄: 與運動社群應用程式[Strava](https://www.strava.com/?hl=zh-TW)串接、第三方登入，取得個人的跑步紀錄
+- 台灣路跑賽事: 每日更新近期的台灣路跑賽事資訊
+    
+  - 目前透過爬蟲技術取得[跑者廣場-全國賽會](http://www.taipeimarathon.org.tw/contest.aspx)的資料
+  - 提供賽事搜尋功能
+  - 可以將即將參加的路跑賽事加入Google Calender
+  - Telegram bot訂閱服務，每日自動取得最新的路跑賽事資訊
 
-Frontend:  <br/>
-Vue.js、Vuetify  <br/>
+#### Tech:
 
-Backend: <br/>
-Laravel 9(Swoole + Octane), Node.js(爬蟲、GPS鄉鎮區取得服務)  <br />
+- Frontend: Vue.js + Vuetify UI
 
-Database: <br/>
-MYSQL <br />
+- Backend: Laravel 9 (PHP 8.1 + Swoole + Octane) + Node.js(爬蟲、Telegram bot)
 
-API: <br/>
-RESTful API <br/>
-Strava API V3 (運動社群第三方登入及資料取得)
+- Database: MYSQL
 
-Environment:  <br/>
-GCP(Google Compute Engine & Google Kubernetes Engine)  <br/>
+- API: RESTful & GraphQL
 
-### 外幣匯率查詢 (2021/12/~) <br/>
+- Environment: GCP (Google Compute Engine & Google Kubernetes Engine)
 
-<a href="https://currency-exchanger-nestjs.bibiota.com/">https://currency-exchanger-nestjs.bibiota.com/</a>  <br/>
+- 3rd party:
+  - Strava API V3 (運動社群第三方登入及資料取得)
+  - Google API (MAP & Calendar API)
+  - 政府開放平台API
+  - 中央氣象局API
 
-每小時取得台灣銀行的外幣資料，可以換算新台幣轉外幣的金額 <br />
+### 💰 [外幣匯率查詢 (2021/12)](https://currency-exchanger-nestjs.bibiota.com/)
 
-技術棧: <br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBIOTA&repo=money_exchange_nestjs)](https://github.com/BIBIOTA/money_exchange_nestjs)
 
-Frontend:  <br/>
-Vue.js(Vue 3)、Tailwind  <br/>
+#### About this side-project:
 
-Backend: <br/>
-NestJs(TypeScript) <br/>
+- 每小時取得台灣銀行的外幣資料，可以換算新台幣轉外幣的金額
 
-Database: <br/>
-MongoDB <br />
+#### Tech:
 
-API: <br/>
-GraphQL <br/>
-
-Environment:  <br/>
-AWS(EC2)  <br/>
-
-<!--
-**BIBIOTA/BIBIOTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: Vue.js(Vue 3)、Tailwind
+- Backend: NestJs(TypeScript)
+- Database: MongoDB
+- API: GraphQL
+- Environment: AWS(EC2)
