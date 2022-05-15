@@ -38,10 +38,10 @@
 
 ### 🏃🏻 [Irunning: Running information web site & Telegram bot (2021/8~)](https://irunning.bibiota.com/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBIOTA&repo=irunning-server-api)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBIOTA&repo=irunning-node)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBIOTA&repo=irunning-client-website)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBIOTA&repo=irunning-client-admin)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBIOTA&repo=irunning-server-api)](https://github.com/BIBIOTA/irunning-server-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBIOTA&repo=irunning-node)](https://github.com/BIBIOTA/irunning-node)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBIOTA&repo=irunning-client-website)](https://github.com/BIBIOTA/irunning-client-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBIOTA&repo=irunning-client-admin)](https://github.com/BIBIOTA/irunning-client-admin)
 
 #### About this side-project:
 
