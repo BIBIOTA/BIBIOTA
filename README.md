@@ -6,23 +6,25 @@
 
 ### Backend:
     PHP (Laravel)
-    Node.js
-    TypeScript (NestJs)
+    Node.js (NestJs)
     RDBMS (MySQL)
+    MongoDB
     Redis
     Queue
 
 ### Environment:
     Linux
-    Docker(docker-compose, k8s)
+    Docker
 
 ### Cloud Service:
     GCP
     AWS
+    Fly.io
     Heroku
+    Vercel
 
 ### Unit Test:
-    Laravel test, jest, mocha ...
+    PHPUnit, jest, mocha ...
 
 ### CI-CD:
     Gitlab-CI
@@ -31,12 +33,33 @@
 
 ### Frontend:
     HTML (Pug)
-    CSS (SCSS、SASS)
+    CSS (Tailwind、SCSS、SASS)
     Javascript(Vue.js、Jquery)
 
 ##  👨‍💻 Side Projects:
 
-### 🏃🏻 [Irunning: Running information web site & Telegram bot (2021/8~)](https://irunning.bibiota.com/)
+### 🏃🏻 [TW-MARATHON: Taiwan running events information site & API (2022/9~)](https://marathontw-web.bibiota.com/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBIOTA&repo=tw-marathon-api)](https://github.com/BIBIOTA/tw-marathon-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBIOTA&repo=tw-marathon-website)](https://github.com/BIBIOTA/tw-marathon-website)
+
+#### About this side-project:
+
+基於下面的Irunning建立、重構、API公開，每日更新近期的台灣路跑賽事資訊。
+
+#### Tech:
+
+- Frontend: Nuxt 3
+
+- Backend: NestJs
+
+- Database: MongoDB
+
+- API: RESTful
+
+- Environment: Vercel、Fly.io
+
+### 🏃🏻 Irunning: Running information web site & Telegram bot (2021/8~)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBIOTA&repo=irunning-server-api)](https://github.com/BIBIOTA/irunning-server-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBIOTA&repo=irunning-node)](https://github.com/BIBIOTA/irunning-node)
@@ -72,7 +95,7 @@
   - 政府開放平台API
   - 中央氣象局API
 
-### 💰 [外幣匯率查詢 (2021/12)](https://currency-exchanger-nestjs.bibiota.com/)
+### 💰 外幣匯率查詢 (2021/12)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBIOTA&repo=money_exchange_nestjs)](https://github.com/BIBIOTA/money_exchange_nestjs)
 
