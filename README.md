@@ -27,7 +27,7 @@
 ### Frontend:
     HTML (Pug)
     CSS (Tailwind、SCSS、SASS)
-    Javascript (Vue.js、Nuxt 3、React、jQuery)
+    Javascript (Vue.js、React、Nuxt 3、jQuery)
 
 ### AI Tools:
     Claude Code
