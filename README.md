@@ -48,25 +48,7 @@
 
 - Backend: Node.js
 
-### 🏃🏻 [TW-MARATHON: Taiwan running events information site & API (2022/9~)](https://marathontw-web.bibiota.com/)
-
-#### About this side-project:
-
-每日更新台灣路跑賽事資訊。
-
-#### Tech:
-
-- Frontend: Nuxt 3
-
-- Backend: NestJs
-
-- Database: MongoDB
-
-- API: RESTful
-
-- Environment: Vercel、Fly.io
-
-### 🤖 [Technical Test Practice: AI 技術面試練習系統 (2025~)](https://github.com/BIBIOTA/technical-test-practice)
+### 🤖 [Technical Test Practice: AI 技術面試練習系統 (2026~)](https://github.com/BIBIOTA/technical-test-practice)
 
 #### About this side-project:
 
@@ -84,7 +66,7 @@ AI 技術面試練習系統，支援語音/文字回答、AI 評分與詳細反�
 
 - Environment: Docker Compose
 
-### 💰 [ZenBill: 自動化記帳系統 (2025~)](https://github.com/BIBIOTA/zenbill-index)
+### 💰 [ZenBill: 自動化記帳系統 (2026~)](https://github.com/BIBIOTA/zenbill-index)
 
 #### About this side-project:
 
@@ -100,7 +82,7 @@ AI 技術面試練習系統，支援語音/文字回答、AI 評分與詳細反�
 
 - Environment: Docker Compose
 
-### 🔍 [Job Scraper: Taiwan Job Listings CLI (2025~)](https://github.com/BIBIOTA/job-scraper)
+### 🔍 [Job Scraper: Taiwan Job Listings CLI (2026~)](https://github.com/BIBIOTA/job-scraper)
 
 #### About this side-project:
 
@@ -109,3 +91,21 @@ AI 技術面試練習系統，支援語音/文字回答、AI 評分與詳細反�
 #### Tech:
 
 - Backend: Python
+
+### 🏃🏻 [TW-MARATHON: Taiwan running events information site & API (2022/9~)](https://marathontw-web.bibiota.com/)
+
+#### About this side-project:
+
+每日更新台灣路跑賽事資訊。
+
+#### Tech:
+
+- Frontend: Nuxt 3
+
+- Backend: NestJs
+
+- Database: MongoDB
+
+- API: RESTful
+
+- Environment: Vercel、Fly.io
