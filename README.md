@@ -1,4 +1,4 @@
-### Hi I'm BiBiOTA 👋
+### Hi I'm Yuki Ota 👋
 
 ## 🖥 Skills:
 
