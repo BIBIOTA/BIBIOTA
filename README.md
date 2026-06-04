@@ -76,7 +76,9 @@ AI 技術面試練習系統，支援語音/文字回答、AI 評分與詳細反�
 
 - Backend: Golang
 
-- Frontend: React (TypeScript)、Expo (Mobile)
+- Frontend (Web): React (TypeScript)
+
+- Frontend (App): Expo
 
 - Database: PostgreSQL
 
